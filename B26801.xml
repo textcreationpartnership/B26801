@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merry boys of Europe. No liquor like the brisk canary, it makes the dull soul blith and merry; it helps the back, prolongs the life, and is much better then a wife. To the tune of, Now, now the fight's done, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26801</idno><idno type="EEBO-CITATION">99888141</idno>
+  <idno type="VID">193203</idno>
+  <idno type="EEBO-PROQUEST">2240899847</idno>
+  
+            <idno type="STC">Wing M1853</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[61]</idno>
+            <idno type="STC">ESTC R229079</idno>
+            <idno type="PROQUEST">ocm99888141</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888141e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193203)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merry boys of Europe. No liquor like the brisk canary, it makes the dull soul blith and merry; it helps the back, prolongs the life, and is much better then a wife. To the tune of, Now, now the fight's done, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, at the Horse-shooe, in West-smith-field, between the Hospital-Gate and Duck-Lane end.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "I'le drink of my bottle each night for my share,".</note>
+                  <note>Imperfect: heavily stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Alcoholism --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193203:1"/>
+            <head>The Merry Boys of Europe.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>No Liquor like the brisk Canary,</l>
+                     <l>It makes the dull Soul blith and merry;</l>
+                     <l>It helps the Back, prolongs the Life,</l>
+                     <l>And is much better then a Wife.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <opener>
+               <hi>To the Tune of, <hi>Now, now the Fight's done,</hi> &amp;c.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>a man with a cask</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>two men, each holding his hat</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi>'Le Drink of my Bottle each night for my share,</l>
+               <l>And as for a Mistris I'le never take care;</l>
+               <l>The one makes me jolly and evermore gay,</l>
+               <l>But a Mistris destroys by her sporting and play;</l>
+               <l>She drains all my Blood till I look quite as pale</l>
+               <l>As a Thief that's half-starved, long kept in a Goal.</l>
+            </lg>
+            <lg>
+               <l>She infeebles my Nerves, and doth shorten my life,</l>
+               <l>And empties my Pockets, and so will a Wife;</l>
+               <l>Then Women make Asses of those that you can,</l>
+               <l>I'le find out a Comrade, some jolly young-man;</l>
+               <l>And in our full Glasses we'l laugh and we'l jest,</l>
+               <l>So perhaps for diversion we'l drink to the best.</l>
+            </lg>
+            <lg>
+               <l>When our senses are drown'd, &amp; our eyes they do pink</l>
+               <l>And our selves do not know what we say or do think;</l>
+               <l>Our wits we conceive are far better then they,</l>
+               <l>Who to the Sack-Bottle could ne'r find the way:</l>
+               <l>Then a Pox of those Misers who hourly do scrape,</l>
+               <l>And knows not the virtue that lies in the Grape.</l>
+            </lg>
+            <lg>
+               <l>Then Beauties farewel, for I'lene'r be your slave,</l>
+               <l>Nor for your fair looks sigh my self to a Grave,</l>
+               <l>But the Bottle I'le hug, which preserveth my life,</l>
+               <l>Puts an end to my sorrows, and banisheth strife:</l>
+               <l>When my thread it is spun; &amp; my hour comes to dye;</l>
+               <l>Like <hi>Diogenes</hi> I▪ in a Sack-Butt will lye.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:193203:1"/>
+               <l>And that close <hi>Wainscot-</hi>room shall my body confine,</l>
+               <l>Who valued not women, but loved good wine;</l>
+               <l>To <hi>Bacchus</hi> I'le surely be a Sacrifice,</l>
+               <l>And ne'r be intangled by Ladies fair eyes;</l>
+               <l>Whose delight is to see men to sigh and to mourn,</l>
+               <l>And their eyes they do feast when they see men forlorn.</l>
+            </lg>
+            <lg>
+               <l>What a fool is that man that will bow &amp; will cringe</l>
+               <l>To beauty, so he doth his freedom infringe;</l>
+               <l>And whilst he might live and for ever be free,</l>
+               <l>Himself he deprives of his chief Liberty;</l>
+               <l>His rest it is lost and his spirits do fail,</l>
+               <l>He's a foe to himself and doth build his own Goal.</l>
+            </lg>
+            <lg>
+               <l>Then give me the Lad that will swim in the Bottle,</l>
+               <l>And not in salt water like vex'd <hi>Aristotle;</hi>
+               </l>
+               <l>For had he but then been acquainted with Sack,</l>
+               <l>His Iudgment in tides he never would lack;</l>
+               <l>When he by his study his brains did confound,</l>
+               <l>He leapt in the Ocean, and there he was drown'd.</l>
+            </lg>
+            <lg>
+               <l>But this Liquor of Life which I so much commend</l>
+               <l>To e'ry true Toper, will prove a true friend,</l>
+               <l>And wash from his heart all his sorrow and care,</l>
+               <l>In Poverty keep him from doubt and dispair:</l>
+               <l>Then who can but love this unparallel'd thing.</l>
+               <l>That makes nobles of peasants, &amp; is drink for a King.</l>
+            </lg>
+            <lg>
+               <l>If the mind be disturb'd, take this Liquor but free,</l>
+               <l>And you'l find in a moment you cured will be:</l>
+               <l>If you grieve or do mourn for the loss of a friend,</l>
+               <l>This Liquor undoubtedly comfort will lend;</l>
+               <l>'Tis good for all Men, and in every condition,</l>
+               <l>Will keep them from charge of a prating Physitian.</l>
+            </lg>
+            <lg>
+               <l>Then matchless Canary I'le sing forth thy fame,</l>
+               <l>And will against Beauty for ever exclaim,</l>
+               <l>For he that doth once fall in love with the Vine,</l>
+               <l>VVill never have reason at all to repine;</l>
+               <l>For it cheers our dull souls, while we merrily sing,</l>
+               <l>
+                  <hi>Long live</hi> Charles <hi>the second, our Soveraign King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In the height of our sport we no <hi>Treason</hi> conspire,</l>
+               <l>To be brisk and be merry is all our desire;</l>
+               <l>Our hearts have no harbour for any ill thought,</l>
+               <l>We despise spight and malice and all that is nought:</l>
+               <l>And in our full Bumpers we'l laugh and we'l sing,</l>
+               <l>And for our diversion we'l drink to the King.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Clarke,</hi> at the Horse-shooe, in West-smith-field, between the <hi>Hospital-</hi>Gate and <hi>Duck-Lane</hi> end.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
